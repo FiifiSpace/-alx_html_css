@@ -1,0 +1,26 @@
+body 
+{display : 
+flex; direction;column;
+}
+
+
+main
+{display :flex:
+flex-direction: row;
+ flex; auto;
+}
+
+
+ article
+ {flex:2;
+ overflow-y: auto;
+ background-color: steelblue;
+ border: 5px solid rebeccapurple
+}
+
+
+
+ aside
+  { flex:1; 
+    overflow-y:  auto;
+}
