@@ -16,11 +16,18 @@ flex-direction: row;
  overflow-y: auto;
  background-color: steelblue;
  border: 5px solid rebeccapurple
+ font-family:arial, sans-serif; 
+ text-align: justify;
+ padding: 5px
 }
-
 
 
  aside
   { flex:1; 
-    overflow-y:  auto;
-}
+    overflow-y:  auto; 
+
+ }
+ 
+ .logo
+ (width: 50px; 
+ height: 50px; )
